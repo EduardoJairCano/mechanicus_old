@@ -10,7 +10,7 @@
       {{ status }}
     </div>
 
-    <!-- Login section -->
+    <!-- Login form -->
     <form @submit.prevent="submit">
       <div>
         <jet-label for="email" value="Email" />
